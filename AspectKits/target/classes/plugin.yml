@@ -1,0 +1,5 @@
+name: AspectKits
+version: 1.0.0
+author: [Alyson Santos]
+main: br.alysonsantos.AspectKits
+depend: [ACore]
